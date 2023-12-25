@@ -1,0 +1,22 @@
+body{ 
+    background: url(picturs/background0.jpg);
+    }
+    h1{font-weight: 300 ;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgba(0, 178, 202, 0.521);
+    -webkit-text-stroke: 1px rgb(56, 7, 112) ;}
+    a {font-weight: 300 ;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(255, 255, 255);-webkit-text-stroke: 1px rgb(56, 7, 112) ;}
+    *{ 
+        margin: 4px;
+        padding: 4px;
+        box-sizing: border-box;
+    }
+    h2{
+        color: rgb(255, 255, 255); 
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+        .OMC{
+         
+        }
